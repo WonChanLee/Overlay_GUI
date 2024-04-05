@@ -1,0 +1,2 @@
+PyQT5 (pip install, this error on my install because of some weird spyder error...)
+scqubits
